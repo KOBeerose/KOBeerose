@@ -86,7 +86,6 @@ Here are some ideas to get you started:
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
             </a>
             &emsp;
-            &emsp;
             <a href="https://heroku.com" target="_blank">
             <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
             </a>
