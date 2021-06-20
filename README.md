@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Taha ELGHABI</h1>
+<h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <a href="https://github.com/KOBeerose/Tech-Gadgets-Recommendation" target="_blank">Tech Gadgets Recommendation System</a>
 
