@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tahaelghabi@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1adeU9-KGkOCDvBUbaYGpz58hGmJsEh_t/view?usp=sharing" target="_blank">My Resume</a> 
 <br>
 <h2 align="left">Github Stats</h2>
 <p>
