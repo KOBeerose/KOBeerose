@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p>
    
 ![KOBeerose's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kobeerose&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=6&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=7&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
    
 </p>
 <br>
