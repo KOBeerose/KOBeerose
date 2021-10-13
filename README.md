@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href="https://github.com/KOBeerose/Tech-Gadgets-Recommendation" target="_blank">Tech Gadgets Recommendation System</a>
+- 🔭 I’m currently working on improving my data science skills through <a href="https://github.com/KOBeerose/Kaggle" target="_blank">Kaggle</a>
 
-- 🌱 I’m currently learning **EDA** and **NLP**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **tahaelghabi@gmail.com**
 
