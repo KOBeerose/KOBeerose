@@ -17,14 +17,15 @@ Here are some ideas to get you started:
    
 </p>
 <br>
-<h2 align="left">Connect with me</h2>
+<h2 align="left">You can find me in</h2>
 <p align="left">
    <a href="https://linkedin.com/in/taha-elghabi-6b0683200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-elghabi-6b0683200" height="30" width="40" /></a>
    &emsp;
+      <a href="https://kaggle.com/kobeerose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kobeerose" height="30" width="40" /></a>
+&emsp;
    <a href="https://stackoverflow.com/users/15874956/kobeerose?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15874956" height="30" width="40" /></a>
-   &emsp;
-   <a href="https://kaggle.com/kobeerose" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kobeerose" height="30" width="40" /></a>
-</p>
+   </p>
+
 <br>
 <h2 align="left">Languages and Tools</h2>
 <ul>
