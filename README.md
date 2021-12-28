@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on improving my data science skills through <a href="https://github.com/KOBeerose/Kaggle" target="_blank">Kaggle</a>
+- 🔭 I’m currently working on some data science projects <a href="https://github.com/KOBeerose/Kaggle" target="_blank">here</a>
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Computer Vision** and **JamStack**
 
 - 📫 How to reach me **tahaelghabi@gmail.com**
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 <p>
    
 ![KOBeerose's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kobeerose&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=7&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
    
 </p>
 <br>
@@ -56,6 +56,14 @@ Here are some ideas to get you started:
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
             </a>
             &emsp;
+            <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg" alt="Adobe Illustrator" width="40" height="40"/>
+            </a>
+            &emsp;
+            <a href="https://www.adobe.com/products/xd.html" target="_blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+            </a>
+            &emsp;
          </p>
          <p>
             <a href="https://www.php.net" target="_blank">
@@ -95,12 +103,16 @@ Here are some ideas to get you started:
     <li>
         <h3 align="left">Data Science:</h3>
         <p>
+        <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        </a>
+        &emsp;
         <a href="https://www.r-project.org/" target="_blank">
         <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/>
         </a>
         &emsp;
-        <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
         </a>
         &emsp;
         <a href="https://pytorch.org/" target="_blank">
