@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
 
+<h3 align="center">A Self-Taught Web Developer, a Data Science Student and a Tech Enthusiast!</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kobeerose&label=Profile%20views&color=0e75b6&style=flat" alt="kobeerose" /> </p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some data science projects <a href="https://github.com/KOBeerose/Kaggle" target="_blank">here</a>
