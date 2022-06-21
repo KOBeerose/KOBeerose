@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 &emsp;
    <a href="https://stackoverflow.com/users/15874956/kobeerose?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15874956" height="30" width="40" /></a>
    </p>
-
+   <br>
+<h2 align="left">And everywhere else on the <a href="https://linktr.ee/KOBeerose" target="_blank" style="text-decoration: none,color: white;">internet 🌐</a></h2>
 <br>
 <h2 align="left">Languages and Tools</h2>
 <ul>
