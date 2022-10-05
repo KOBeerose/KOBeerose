@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
 
-<h3 align="center">A Self-Taught Web Developer, a Data Engineering Student and a Tech Enthusiast!</h3>
+<h3 align="center">A Self-Taught Web Developer, a Data/Software Engineering Student and a Tech Enthusiast!</h3>
 <br>
 
 <p align="center">
