@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
 
-<h3 align="center">A Self-Taught Web Developer, a Data/Software Engineering Student and a Tech Enthusiast!</h3>
+<h3 align="center">A Data Engineer Consultant 👨🏻‍💼 at IBM | Loves building 🧑🏻‍💻 Software | Passionate about Cloud ☁️ and AI 🧠.!</h3>
 <br>
 
 <p align="center">
@@ -9,8 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some data science projects <a href="https://github.com/KOBeerose/Academic-Projects.git" target="_blank">here</a>
-- 🌱 I’m currently learning **Data Engineering** and **JamStack**
+- 🔭 I’m currently working on my portfolio <a href="#" target="_blank">👀</a>
+- 🌱 I’m currently learning **Data Modeling** and **System Design**
 - 📫 How to reach me **tahaelghabi@gmail.com**
    
 <br>
