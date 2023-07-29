@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
 
-<h3 align="center">A Data Engineer at IBM | Loves building 🧑🏻‍💻 Software | Passionate about Cloud ☁️ and AI 🧠</h3>
+<h3 align="center">Data Engineer at IBM | Loves building 🧑🏻‍💻 Software | Passionate about Cloud ☁️ and AI 🧠</h3>
 <br>
 
 <p align="center">
