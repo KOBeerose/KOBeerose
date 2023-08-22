@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">Github Stats</h2>
 
-![KOBeerose's GitHub stats](https://github-readme-stats.vercel.app/api/?username=kobeerose&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
+![KOBeerose's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=kobeerose&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kobeerose&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/kobeerose/github-readme-stats)
 
 <p align="left">
    <a href="https://www.linkedin.com/in/taha-elghabi/" target="_blank">
