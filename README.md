@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha ELGHABI or (KOBeerose)</h1>
 
-<h3 align="center">Data Engineer at BCG | Loves building 🧑🏻‍💻 Software | Passionate about Cloud ☁️ and AI 🧠</h3>
+<h3 align="center">Data Engineer at Lyft | Loves building 🧑🏻‍💻 Software | Passionate about Cloud ☁️ and AI 🧠</h3>
 <br>
 
 <p align="center">
