@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 <br>
 <h2 align="left">Github Stats</h2>
 
-![KOBeerose's GitHub stats](generated/overview.svg)
-![KOBeerose's languages](generated/languages.svg)
+![KOBeerose's profile details](profile-summary-card-output/github_dark/0-profile-details.svg)
+![KOBeerose's repos per language](profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![KOBeerose's most commit language](profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![KOBeerose's stats](profile-summary-card-output/github_dark/3-stats.svg)
 
 <p align="left">
    <a href="https://www.linkedin.com/in/taha-elghabi/" target="_blank">
