@@ -1,0 +1,34 @@
+name: Update GitHub stats
+
+on:
+  schedule:
+    - cron: "0 0 * * 1" # weekly, Monday 00:00 UTC
+  workflow_dispatch: {} # allow manual runs from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: KOBeerose
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_repos: ""
+          exclude_langs: ""
+          exclude_forked_repos: false
+
+      - name: Commit and push generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add generated/
+          git diff --cached --quiet || git commit -m "Update generated GitHub stats"
+          git push
